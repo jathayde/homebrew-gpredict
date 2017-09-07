@@ -1,4 +1,4 @@
-class Gpredict < Formula
+class gpredict < Formula
   desc "Gpredict satellite trackling application"
   homepage "http://gpredict.oz9aec.net/"
   url "https://github.com/csete/gpredict/archive/1.3.x.zip"
