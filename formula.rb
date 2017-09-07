@@ -3,7 +3,7 @@ require 'formula'
 class Gpredict < Formula
   homepage 'http://gpredict.oz9aec.net/'
   url 'https://downloads.sourceforge.net/project/gpredict/Gpredict/1.3/gpredict-1.3.tar.gz'
-  sha1 'a02a979fb68f9be8b9294a7c4ca248aaecd73b34'
+  # sha1 'a02a979fb68f9be8b9294a7c4ca248aaecd73b34'
 
   depends_on :x11
   depends_on 'pkg-config' => :build
